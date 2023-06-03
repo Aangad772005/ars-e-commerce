@@ -1,0 +1,1 @@
+This is an E-COMMERCE webpage. All of the images, banners and headers strip is working with the help of internal and external linking. For external linking, amazon.in is used.
